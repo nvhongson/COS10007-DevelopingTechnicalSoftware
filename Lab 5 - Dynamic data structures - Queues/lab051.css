@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Lab05-1.CSS</title>
+<head>
+<style>
+*/ Step 1
+*/ File Name : Son Nguyen
+   Author : Son Nguyen
+   Created : 29/05/2023
+   Description: lab05/styles
+*/
+
+*/ Step 2 & 3 /*
+<style>
+.h1 {colour:purple; font-size: 2em; font-weight:bold;}
+   {font-family: calabri , sans-serif;}
+	
+*/Step 4 */
+
+*/1 */
+h1 {colour:#2F4F4F; font-size: 2em; font-weight:bold;}
+*/2 */
+h2 {colour: rgb(0,128,128);font-size: 1.5em;font-weight:bold}
+*/3 */
+.33333333333333333333333333333333333333333333333333333333aside , footer {font-style:italic}
+h1 , h2 , h3 {font-family:sans-serif}
+*/4 */
+border{colour: solid black; size : 1px}
+
+*/Step 5 */
+<h2 id="images"images </h2>
+#images (text-allign: center;)
+
+*/ Step 6 */
+.h3 {colour:red;}
+
+*/ Step 8 */
+.special {color:darkorange; font-weight:bold;}
+
+*/ Step 9 */
+
+tr {text-allign: start}
+
+*/ Step 10 */
+nav a {text-decoration:none; padding:0.2em 0.6e, ; border 4px solid #ccc}
+
+*/Step 11 */
+ol {list-style-type:lower-roman;)
+ul (list-style-type:square;)
+
+*/Step 12 */
+il (list-style-type:square;)
+
+*/ Step 13 */
+aside {visibility:hidden;}
+
+*/ Step 14 */
+.psuedo {background-color:light-blue ; border-color:light-blue; border:blue;}
+
+
+</style>
